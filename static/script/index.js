@@ -19,13 +19,17 @@ switch (localStorage.getItem('incog||background')) {
 };
 
 app.openNav = function () {
+    document.querySelector('nav').style.removeProperty('display')
+    document.querySelector('#open-nav').style.display = 'none';
     document.querySelector('#close-nav').style.display = 'flex';
-    document.querySelector('nav').style.display = 'flex';
+    document.querySelector('#btns').style.display = 'flex';
 };
 
 app.closeNav = function () {
     document.querySelector('#close-nav').style.removeProperty('display')
-    document.querySelector('nav').style.removeProperty('display')
+    document.querySelector('#btns').style.removeProperty('display')
+    document.querySelector('#open-nav').style.removeProperty('display')
+    document.querySelector('nav').style.display = 'flex';
 };
 
 app.destroyParticles = function () {
