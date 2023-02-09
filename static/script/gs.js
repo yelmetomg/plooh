@@ -1,4 +1,5 @@
 async function gs(app) {
+    app.closeNav();
     app.search.pd_round.input.placeholder = 'Search library'
     app.search.back.style.display = 'inline';
     app.search.pd_round.sep.style.display = 'none';

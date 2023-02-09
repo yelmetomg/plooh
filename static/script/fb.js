@@ -1,4 +1,5 @@
 function filter_bypass(app) {
+    app.closeNav();
     let params = new URLSearchParams(window.location.search);
     app.search.title.style.display = 'block';
     app.search.title.textContent = 'Filter Bypasses';

@@ -1,4 +1,5 @@
 function discord(app) {
+    app.closeNav();
     app.search.title.style.display = 'block';
     app.search.title.textContent = 'Discord Server';
     app.search.pd_round.input.style.display = 'none';

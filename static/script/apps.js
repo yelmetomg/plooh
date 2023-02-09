@@ -1,4 +1,5 @@
 async function apps(app) {
+    app.closeNav();
     app.search.pd_round.input.placeholder = 'Search apps'
     app.search.back.style.display = 'inline';
     app.search.pd_round.sep.style.display = 'none';
