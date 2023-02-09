@@ -8,6 +8,7 @@ const tips = [
 
 
 function access(app) {
+    app.closeNav();
     if (document.querySelector('header').hasAttribute('data-init')) {
         document.querySelector('header').removeAttribute('data-init')
     };

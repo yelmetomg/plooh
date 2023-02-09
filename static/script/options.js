@@ -8,6 +8,7 @@ async function options(app) {
     app.search.title.textContent = 'Options';
     app.search.pd_round.input.style.display = 'none';
     app.search.pd_round.style.display = 'none';
+    app.nav.id = "btns";
 
     const tabs = new Tabs(app);
     const themes = [
