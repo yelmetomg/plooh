@@ -12,10 +12,10 @@
     <a>To get started, press one of the buttons below to deploy Plooshi Docs</a>
     <br>
     <br>
-    <a href="https://render.com/deploy?repo=https://github.com/plooshi/Docs"><img height="30px" src="https://img.shields.io/badge/render-4f65f1.svg?style=for-the-badge&logo=render&logoColor=46e3b7"><img></a>
-    <a href="https://repl.it/github/plooshi/Docs"><img height="30px" src="https://amethystnetwork-dev.github.io/assets/replit.svg"><img></a>
+    <a href="https://render.com/deploy?repo=https://github.com/ploosh-alt/Docs"><img height="30px" src="https://img.shields.io/badge/render-4f65f1.svg?style=for-the-badge&logo=render&logoColor=46e3b7"><img></a>
+    <a href="https://repl.it/github/ploosh-alt/Docs"><img height="30px" src="https://amethystnetwork-dev.github.io/assets/replit.svg"><img></a>
     <a href="https://railway.app/new/template/NZymFf?referralCode=cuXSLZ"><img height="30px" src="https://img.shields.io/badge/Railway-%234f0599.svg?style=for-the-badge&logo=railway&logoColor=white"><img></a>
-    <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/plooshi/Docs&branch=main&name=plooshidocs"><img height="30px" src="https://img.shields.io/badge/koyeb-121212.svg?style=for-the-badge&logo=koyeb&logoColor=87fcc4"><img></a>
+    <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/ploosh-alt/Docs&branch=main&name=plooshidocs"><img height="30px" src="https://img.shields.io/badge/koyeb-121212.svg?style=for-the-badge&logo=koyeb&logoColor=87fcc4"><img></a>
 </div>
 
 ## Docker
